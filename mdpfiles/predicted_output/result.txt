@@ -1,0 +1,124 @@
+ GPU isn't used 
+ Used AVX 
+ Used FMA & AVX2 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 86 K-images (1 Kilo-batches_64) 
+folder input=mdpfiles/samples/ and output=mdpfiles/predicted_output/
+Start processing mdpfiles/samples/1,1,RIGHT.jpg
+mdpfiles/samples/1,1,RIGHT.jpg: Predicted in 3696.044000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,1,UP.jpg
+mdpfiles/samples/1,1,UP.jpg: Predicted in 4947.612000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,11,DOWN.jpg
+mdpfiles/samples/1,11,DOWN.jpg: Predicted in 3244.051000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,11,UP.jpg
+mdpfiles/samples/1,11,UP.jpg: Predicted in 3588.145000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,12,LEFT.jpg
+mdpfiles/samples/1,12,LEFT.jpg: Predicted in 3308.992000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,13,UP.jpg
+mdpfiles/samples/1,13,UP.jpg: Predicted in 3292.419000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,17,RIGHT.jpg
+mdpfiles/samples/1,17,RIGHT.jpg: Predicted in 3825.307000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,17,UP.jpg
+mdpfiles/samples/1,17,UP.jpg: Predicted in 3727.393000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,18,DOWN.jpg
+mdpfiles/samples/1,18,DOWN.jpg: Predicted in 3942.082000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,18,RIGHT.jpg
+mdpfiles/samples/1,18,RIGHT.jpg: Predicted in 3640.409000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,2,RIGHT.jpg
+mdpfiles/samples/1,2,RIGHT.jpg: Predicted in 3355.254000 milli-seconds.
+End
+Start processing mdpfiles/samples/1,3,RIGHT.jpg
+mdpfiles/samples/1,3,RIGHT.jpg: Predicted in 3610.205000 milli-seconds.
+[ID: 5] Go: 96.006546%	left_x:   90	top_y:  370	width:  235	height:  191
+End
+Start processing mdpfiles/samples/1,5,DOWN.jpg
+mdpfiles/samples/1,5,DOWN.jpg: Predicted in 3200.487000 milli-seconds.
+End
+Start processing mdpfiles/samples/10,1,UP.jpg
+mdpfiles/samples/10,1,UP.jpg: Predicted in 3638.751000 milli-seconds.
+End
+Start processing mdpfiles/samples/10,18,DOWN.jpg
+mdpfiles/samples/10,18,DOWN.jpg: Predicted in 5003.930000 milli-seconds.
+End
+Start processing mdpfiles/samples/10,8,LEFT.jpg
+mdpfiles/samples/10,8,LEFT.jpg: Predicted in 3612.411000 milli-seconds.
+End
+Start processing mdpfiles/samples/10,8,UP.jpg
+mdpfiles/samples/10,8,UP.jpg: Predicted in 4342.067000 milli-seconds.
+End
+Start processing mdpfiles/samples/10,9,LEFT.jpg
+mdpfiles/samples/10,9,LEFT.jpg: Predicted in 3870.684000 milli-seconds.
+End
+Start processing mdpfiles/samples/10,9,UP.jpg
+mdpfiles/samples/10,9,UP.jpg: Predicted in 3114.300000 milli-seconds.
+[ID: 15] Alphabet Z: 97.713493%	left_x:   52	top_y:  365	width:  237	height:  314
+End
+Start processing mdpfiles/samples/11,10,LEFT.jpg
+mdpfiles/samples/11,10,LEFT.jpg: Predicted in 3365.022000 milli-seconds.
+End
+Start processing mdpfiles/samples/11,3,DOWN.jpg
+mdpfiles/samples/11,3,DOWN.jpg: Predicted in 3222.984000 milli-seconds.
+End
+Start processing mdpfiles/samples/11,9,LEFT.jpg
+mdpfiles/samples/11,9,LEFT.jpg: Predicted in 3137.007000 milli-seconds.
+End
+Start processing mdpfiles/samples/11,9,UP.jpg
+mdpfiles/samples/11,9,UP.jpg: Predicted in 3482.364000 milli-seconds.
+End
+Start processing mdpfiles/samples/12,1,UP.jpg
+mdpfiles/samples/12,1,UP.jpg: Predicted in 3067.738000 milli-seconds.
+End
+Start processing mdpfiles/samples/12,10,UP.jpg
+mdpfiles/samples/12,10,UP.jpg: Predicted in 3448.371000 milli-seconds.
+End
+Start processing mdpfiles/samples/12,18,DOWN.jpg
+mdpfiles/samples/12,18,DOWN.jpg: Predicted in 3060.922000 milli-seconds.
+End
+Start processing mdpfiles/samples/12,3,DOWN.jpg
+mdpfiles/samples/12,3,DOWN.jpg: Predicted in 3380.978000 milli-seconds.
+End
+Start processing mdpfiles/samples/12,3,RIGHT.jpg
+mdpfiles/samples/12,3,RIGHT.jpg: Predicted in 3082.050000 milli-seconds.
+End
+Start processing mdpfiles/samples/12,4,DOWN.jpg
+mdpfiles/samples/12,4,DOWN.jpg: Predicted in 3236.087000 milli-seconds.
+End
+Start processing mdpfiles/samples/12,4,RIGHT.jpg
+mdpfiles/samples/12,4,RIGHT.jpg: Predicted in 3731.657000 milli-seconds.
+End
+Start processing mdpfiles/samples/13,1,LEFT.jpg
+mdpfiles/samples/13,1,LEFT.jpg: Predicted in 3110.900000 milli-seconds.
+End
+Start processing mdpfiles/samples/13,1,UP.jpg
+mdpfiles/samples/13,1,UP.jpg: Predicted in 3845.928000 milli-seconds.
+End
+Start processing mdpfiles/samples/13,10,LEFT.jpg
+mdpfiles/samples/13,10,LEFT.jpg: Predicted in 3565.048000 milli-seconds.
+End
+Start processing mdpfiles/samples/13,10,UP.jpg
+mdpfiles/samples/13,10,UP.jpg: Predicted in 3925.938000 milli-seconds.
+End
+Start processing mdpfiles/samples/13,12,LEFT.jpg
+mdpfiles/samples/13,12,LEFT.jpg: Predicted in 3580.420000 milli-seconds.
+End
+Start processing mdpfiles/samples/13,13,LEFT.jpg
+mdpfiles/samples/13,13,LEFT.jpg: Predicted in 3638.275000 milli-seconds.
+End
+Start processing mdpfiles/samples/13,15,LEFT.jpg
+mdpfiles/samples/13,15,LEFT.jpg: Predicted in 4564.009000 milli-seconds.
+End
+Start processing mdpfiles/samples/13,16,LEFT.jpg

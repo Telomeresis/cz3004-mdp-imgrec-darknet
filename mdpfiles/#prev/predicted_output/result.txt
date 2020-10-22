@@ -1,0 +1,298 @@
+ GPU isn't used 
+ Used AVX 
+ Used FMA & AVX2 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 86 K-images (1 Kilo-batches_64) 
+folder input=mdpfiles/samples/ and output=mdpfiles/predicted_output/
+Start processing mdpfiles/samples/01.jpg
+mdpfiles/samples/01.jpg: Predicted in 4883.444000 milli-seconds.
+[ID: 7] seven: 99.686768%	left_x: 1148	top_y: 1324	width:  812	height:  642
+End
+Start processing mdpfiles/samples/02.jpg
+mdpfiles/samples/02.jpg: Predicted in 4554.989000 milli-seconds.
+[ID: 7] seven: 99.525124%	left_x: 1300	top_y: 1447	width:  583	height:  355
+End
+Start processing mdpfiles/samples/03.jpg
+mdpfiles/samples/03.jpg: Predicted in 3965.049000 milli-seconds.
+[ID: 7] seven: 97.533890%	left_x: 1381	top_y: 1480	width:  426	height:  273
+End
+Start processing mdpfiles/samples/04.jpg
+mdpfiles/samples/04.jpg: Predicted in 3970.639000 milli-seconds.
+[ID: 7] seven: 99.540863%	left_x: 1431	top_y: 1482	width:  340	height:  236
+End
+Start processing mdpfiles/samples/05.jpg
+mdpfiles/samples/05.jpg: Predicted in 3512.747000 milli-seconds.
+[ID: 7] seven: 99.749901%	left_x: 1461	top_y: 1493	width:  280	height:  204
+End
+Start processing mdpfiles/samples/06.jpg
+mdpfiles/samples/06.jpg: Predicted in 3548.122000 milli-seconds.
+[ID: 7] seven: 99.749687%	left_x: 1476	top_y: 1504	width:  243	height:  177
+End
+Start processing mdpfiles/samples/07.jpg
+mdpfiles/samples/07.jpg: Predicted in 3909.478000 milli-seconds.
+[ID: 7] seven: 99.289261%	left_x: 1514	top_y: 1498	width:  176	height:  181
+End
+Start processing mdpfiles/samples/08.jpg
+mdpfiles/samples/08.jpg: Predicted in 4000.901000 milli-seconds.
+[ID: 7] seven: 99.290016%	left_x: 1520	top_y: 1503	width:  159	height:  169
+End
+Start processing mdpfiles/samples/09.jpg
+mdpfiles/samples/09.jpg: Predicted in 3759.578000 milli-seconds.
+[ID: 7] seven: 99.445259%	left_x:  -22	top_y: 1339	width:  766	height:  635
+End
+Start processing mdpfiles/samples/10.jpg
+mdpfiles/samples/10.jpg: Predicted in 3576.400000 milli-seconds.
+[ID: 7] seven: 97.002426%	left_x:  487	top_y: 1414	width:  538	height:  445
+End
+Start processing mdpfiles/samples/11.jpg
+mdpfiles/samples/11.jpg: Predicted in 3818.774000 milli-seconds.
+[ID: 7] seven: 99.293495%	left_x:  738	top_y: 1488	width:  467	height:  263
+End
+Start processing mdpfiles/samples/12.jpg
+mdpfiles/samples/12.jpg: Predicted in 4152.134000 milli-seconds.
+[ID: 7] seven: 98.688469%	left_x:  915	top_y: 1484	width:  363	height:  242
+End
+Start processing mdpfiles/samples/13.jpg
+mdpfiles/samples/13.jpg: Predicted in 3506.331000 milli-seconds.
+[ID: 7] seven: 99.786835%	left_x: 1029	top_y: 1493	width:  302	height:  209
+End
+Start processing mdpfiles/samples/14.jpg
+mdpfiles/samples/14.jpg: Predicted in 3548.288000 milli-seconds.
+[ID: 7] seven: 99.563713%	left_x: 1110	top_y: 1498	width:  248	height:  189
+End
+Start processing mdpfiles/samples/15.jpg
+mdpfiles/samples/15.jpg: Predicted in 3165.671000 milli-seconds.
+[ID: 7] seven: 99.484375%	left_x: 1173	top_y: 1512	width:  224	height:  164
+End
+Start processing mdpfiles/samples/16.jpg
+mdpfiles/samples/16.jpg: Predicted in 3439.658000 milli-seconds.
+[ID: 7] seven: 99.271759%	left_x: 1225	top_y: 1501	width:  175	height:  179
+End
+Start processing mdpfiles/samples/17.jpg
+mdpfiles/samples/17.jpg: Predicted in 3617.181000 milli-seconds.
+[ID: 7] seven: 99.762253%	left_x: 2356	top_y: 1316	width:  741	height:  649
+End
+Start processing mdpfiles/samples/18.jpg
+mdpfiles/samples/18.jpg: Predicted in 3143.012000 milli-seconds.
+[ID: 7] seven: 99.441208%	left_x: 2099	top_y: 1466	width:  562	height:  337
+End
+Start processing mdpfiles/samples/19.jpg
+mdpfiles/samples/19.jpg: Predicted in 3142.784000 milli-seconds.
+[ID: 7] seven: 97.576401%	left_x: 1976	top_y: 1480	width:  439	height:  272
+End
+Start processing mdpfiles/samples/20.jpg
+mdpfiles/samples/20.jpg: Predicted in 3534.592000 milli-seconds.
+[ID: 7] seven: 99.427979%	left_x: 1933	top_y: 1482	width:  325	height:  240
+End
+Start processing mdpfiles/samples/21.jpg
+mdpfiles/samples/21.jpg: Predicted in 3388.247000 milli-seconds.
+[ID: 7] seven: 99.355438%	left_x: 1875	top_y: 1490	width:  274	height:  206
+End
+Start processing mdpfiles/samples/22.jpg
+mdpfiles/samples/22.jpg: Predicted in 3180.560000 milli-seconds.
+[ID: 7] seven: 99.627678%	left_x: 1840	top_y: 1502	width:  227	height:  181
+End
+Start processing mdpfiles/samples/23.jpg
+mdpfiles/samples/23.jpg: Predicted in 3496.152000 milli-seconds.
+[ID: 7] seven: 98.881081%	left_x: 1832	top_y: 1497	width:  172	height:  179
+End
+Start processing mdpfiles/samples/24.jpg
+mdpfiles/samples/24.jpg: Predicted in 3574.311000 milli-seconds.
+[ID: 7] seven: 99.204758%	left_x: 1779	top_y: 1508	width:  200	height:  169
+End
+Start processing mdpfiles/samples/25.jpg
+mdpfiles/samples/25.jpg: Predicted in 3169.817000 milli-seconds.
+[ID: 8] eight: 99.883408%	left_x: 1245	top_y: 1426	width:  716	height:  480
+End
+Start processing mdpfiles/samples/26.jpg
+mdpfiles/samples/26.jpg: Predicted in 3404.222000 milli-seconds.
+[ID: 8] eight: 99.707207%	left_x: 1361	top_y: 1451	width:  557	height:  370
+End
+Start processing mdpfiles/samples/27.jpg
+mdpfiles/samples/27.jpg: Predicted in 3595.287000 milli-seconds.
+[ID: 8] eight: 99.653656%	left_x: 1426	top_y: 1467	width:  357	height:  336
+End
+Start processing mdpfiles/samples/28.jpg
+mdpfiles/samples/28.jpg: Predicted in 3129.055000 milli-seconds.
+[ID: 8] eight: 99.447136%	left_x: 1485	top_y: 1488	width:  277	height:  263
+End
+Start processing mdpfiles/samples/29.jpg
+mdpfiles/samples/29.jpg: Predicted in 3587.675000 milli-seconds.
+[ID: 8] eight: 96.760803%	left_x: 1501	top_y: 1494	width:  229	height:  238
+End
+Start processing mdpfiles/samples/30.jpg
+mdpfiles/samples/30.jpg: Predicted in 5859.925000 milli-seconds.
+[ID: 8] eight: 95.273392%	left_x: 1519	top_y: 1512	width:  188	height:  191
+End
+Start processing mdpfiles/samples/31.jpg
+mdpfiles/samples/31.jpg: Predicted in 3615.476000 milli-seconds.
+[ID: 8] eight: 97.111359%	left_x: 1506	top_y: 1514	width:  222	height:  181
+End
+Start processing mdpfiles/samples/32.jpg
+mdpfiles/samples/32.jpg: Predicted in 3607.744000 milli-seconds.
+[ID: 8] eight: 97.411934%	left_x: 1519	top_y: 1520	width:  194	height:  162
+End
+Start processing mdpfiles/samples/33.jpg
+mdpfiles/samples/33.jpg: Predicted in 3749.020000 milli-seconds.
+[ID: 8] eight: 99.080673%	left_x:   76	top_y: 1326	width:  667	height:  734
+End
+Start processing mdpfiles/samples/34.jpg
+mdpfiles/samples/34.jpg: Predicted in 3143.658000 milli-seconds.
+[ID: 8] eight: 99.845543%	left_x:  549	top_y: 1438	width:  513	height:  446
+End
+Start processing mdpfiles/samples/35.jpg
+mdpfiles/samples/35.jpg: Predicted in 3627.876000 milli-seconds.
+[ID: 8] eight: 99.736008%	left_x:  813	top_y: 1478	width:  361	height:  332
+End
+Start processing mdpfiles/samples/36.jpg
+mdpfiles/samples/36.jpg: Predicted in 3626.197000 milli-seconds.
+[ID: 8] eight: 99.590683%	left_x:  974	top_y: 1492	width:  283	height:  268
+End
+Start processing mdpfiles/samples/37.jpg
+mdpfiles/samples/37.jpg: Predicted in 3182.920000 milli-seconds.
+[ID: 8] eight: 99.456818%	left_x: 1099	top_y: 1500	width:  223	height:  237
+End
+Start processing mdpfiles/samples/38.jpg
+mdpfiles/samples/38.jpg: Predicted in 3358.597000 milli-seconds.
+[ID: 8] eight: 97.432793%	left_x: 1166	top_y: 1514	width:  181	height:  205
+End
+Start processing mdpfiles/samples/39.jpg
+mdpfiles/samples/39.jpg: Predicted in 3616.216000 milli-seconds.
+[ID: 8] eight: 96.474785%	left_x: 1198	top_y: 1521	width:  187	height:  188
+End
+Start processing mdpfiles/samples/40.jpg
+mdpfiles/samples/40.jpg: Predicted in 3474.393000 milli-seconds.
+[ID: 8] eight: 94.878510%	left_x: 1245	top_y: 1516	width:  188	height:  175
+End
+Start processing mdpfiles/samples/41.jpg
+mdpfiles/samples/41.jpg: Predicted in 3200.219000 milli-seconds.
+[ID: 8] eight: 99.706039%	left_x: 2427	top_y: 1348	width:  654	height:  637
+End
+Start processing mdpfiles/samples/42.jpg
+mdpfiles/samples/42.jpg: Predicted in 3641.829000 milli-seconds.
+[ID: 8] eight: 99.748917%	left_x: 2141	top_y: 1464	width:  560	height:  343
+End
+Start processing mdpfiles/samples/43.jpg
+mdpfiles/samples/43.jpg: Predicted in 3608.505000 milli-seconds.
+[ID: 8] eight: 99.701187%	left_x: 2040	top_y: 1471	width:  356	height:  325
+End
+Start processing mdpfiles/samples/44.jpg
+mdpfiles/samples/44.jpg: Predicted in 3172.613000 milli-seconds.
+[ID: 8] eight: 99.188972%	left_x: 1980	top_y: 1483	width:  257	height:  272
+End
+Start processing mdpfiles/samples/45.jpg
+mdpfiles/samples/45.jpg: Predicted in 3233.576000 milli-seconds.
+[ID: 8] eight: 94.754036%	left_x: 1914	top_y: 1498	width:  237	height:  231
+End
+Start processing mdpfiles/samples/46.jpg
+mdpfiles/samples/46.jpg: Predicted in 3669.013000 milli-seconds.
+[ID: 8] eight: 95.489586%	left_x: 1866	top_y: 1504	width:  196	height:  207
+End
+Start processing mdpfiles/samples/47.jpg
+mdpfiles/samples/47.jpg: Predicted in 3517.923000 milli-seconds.
+[ID: 8] eight: 96.433907%	left_x: 1822	top_y: 1511	width:  209	height:  184
+End
+Start processing mdpfiles/samples/48.jpg
+mdpfiles/samples/48.jpg: Predicted in 3190.252000 milli-seconds.
+[ID: 8] eight: 85.716316%	left_x: 1801	top_y: 1508	width:  182	height:  189
+End
+Start processing mdpfiles/samples/49.jpg
+mdpfiles/samples/49.jpg: Predicted in 3512.198000 milli-seconds.
+[ID: 9] nine: 99.841675%	left_x: 1290	top_y: 1301	width:  579	height:  638
+End
+Start processing mdpfiles/samples/50.jpg
+mdpfiles/samples/50.jpg: Predicted in 3660.546000 milli-seconds.
+[ID: 9] nine: 99.258148%	left_x: 1445	top_y: 1366	width:  387	height:  490
+End
+Start processing mdpfiles/samples/51.jpg
+mdpfiles/samples/51.jpg: Predicted in 3229.275000 milli-seconds.
+[ID: 9] nine: 99.073700%	left_x: 1451	top_y: 1426	width:  336	height:  339
+End
+Start processing mdpfiles/samples/52.jpg
+mdpfiles/samples/52.jpg: Predicted in 3335.639000 milli-seconds.
+[ID: 9] nine: 99.544014%	left_x: 1476	top_y: 1451	width:  282	height:  280
+End
+Start processing mdpfiles/samples/53.jpg
+mdpfiles/samples/53.jpg: Predicted in 3697.949000 milli-seconds.
+[ID: 9] nine: 99.726234%	left_x: 1496	top_y: 1466	width:  245	height:  239
+End
+Start processing mdpfiles/samples/54.jpg
+mdpfiles/samples/54.jpg: Predicted in 3881.654000 milli-seconds.
+[ID: 9] nine: 99.591011%	left_x: 1509	top_y: 1484	width:  213	height:  206
+End
+Start processing mdpfiles/samples/55.jpg
+mdpfiles/samples/55.jpg: Predicted in 4409.037000 milli-seconds.
+[ID: 9] nine: 98.389053%	left_x: 1532	top_y: 1508	width:  172	height:  166
+End
+Start processing mdpfiles/samples/56.jpg
+mdpfiles/samples/56.jpg: Predicted in 3321.763000 milli-seconds.
+[ID: 9] nine: 98.587166%	left_x: 1527	top_y: 1504	width:  174	height:  181
+End
+Start processing mdpfiles/samples/57.jpg
+mdpfiles/samples/57.jpg: Predicted in 3250.599000 milli-seconds.
+[ID: 9] nine: 99.692612%	left_x:  174	top_y: 1317	width:  562	height:  655
+End
+Start processing mdpfiles/samples/58.jpg
+mdpfiles/samples/58.jpg: Predicted in 3680.616000 milli-seconds.
+[ID: 9] nine: 99.370155%	left_x:  602	top_y: 1407	width:  468	height:  444
+End
+Start processing mdpfiles/samples/59.jpg
+mdpfiles/samples/59.jpg: Predicted in 3734.095000 milli-seconds.
+[ID: 9] nine: 98.816940%	left_x:  839	top_y: 1449	width:  326	height:  342
+End
+Start processing mdpfiles/samples/60.jpg
+mdpfiles/samples/60.jpg: Predicted in 4123.330000 milli-seconds.
+[ID: 9] nine: 96.857330%	left_x:  991	top_y: 1451	width:  264	height:  301
+End
+Start processing mdpfiles/samples/61.jpg
+mdpfiles/samples/61.jpg: Predicted in 3474.339000 milli-seconds.
+[ID: 9] nine: 99.563187%	left_x: 1087	top_y: 1469	width:  244	height:  252
+End
+Start processing mdpfiles/samples/62.jpg
+mdpfiles/samples/62.jpg: Predicted in 3852.494000 milli-seconds.
+[ID: 9] nine: 94.796494%	left_x: 1143	top_y: 1481	width:  232	height:  240
+End
+Start processing mdpfiles/samples/63.jpg
+mdpfiles/samples/63.jpg: Predicted in 3801.123000 milli-seconds.
+[ID: 9] nine: 97.739845%	left_x: 1200	top_y: 1503	width:  195	height:  190
+End
+Start processing mdpfiles/samples/64.jpg
+mdpfiles/samples/64.jpg: Predicted in 3525.074000 milli-seconds.
+[ID: 9] nine: 98.049423%	left_x: 1250	top_y: 1504	width:  176	height:  186
+End
+Start processing mdpfiles/samples/65.jpg
+mdpfiles/samples/65.jpg: Predicted in 3499.244000 milli-seconds.
+[ID: 9] nine: 99.048622%	left_x: 2461	top_y: 1268	width:  612	height:  671
+End
+Start processing mdpfiles/samples/66.jpg
+mdpfiles/samples/66.jpg: Predicted in 3750.666000 milli-seconds.
+[ID: 9] nine: 99.684181%	left_x: 2249	top_y: 1365	width:  385	height:  484
+End
+Start processing mdpfiles/samples/67.jpg
+mdpfiles/samples/67.jpg: Predicted in 3804.975000 milli-seconds.
+[ID: 9] nine: 99.399681%	left_x: 2052	top_y: 1425	width:  344	height:  338
+End
+Start processing mdpfiles/samples/68.jpg
+mdpfiles/samples/68.jpg: Predicted in 3347.564000 milli-seconds.
+[ID: 9] nine: 99.367523%	left_x: 2052	top_y: 1425	width:  343	height:  339
+End
+Start processing mdpfiles/samples/69.jpg
+mdpfiles/samples/69.jpg: Predicted in 3264.816000 milli-seconds.
+[ID: 9] nine: 99.258789%	left_x: 1908	top_y: 1473	width:  246	height:  237
+End
+Start processing mdpfiles/samples/70.jpg
+mdpfiles/samples/70.jpg: Predicted in 3701.052000 milli-seconds.
+[ID: 9] nine: 99.475807%	left_x: 1878	top_y: 1487	width:  192	height:  203
+End
+Start processing mdpfiles/samples/71.jpg
+mdpfiles/samples/71.jpg: Predicted in 3706.460000 milli-seconds.
+[ID: 9] nine: 97.707634%	left_x: 1838	top_y: 1500	width:  163	height:  187
+End
+Start processing mdpfiles/samples/72.jpg
+mdpfiles/samples/72.jpg: Predicted in 3372.834000 milli-seconds.
+[ID: 9] nine: 93.380043%	left_x: 1809	top_y: 1496	width:  162	height:  200
+End
